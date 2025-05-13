@@ -21,7 +21,8 @@
 
  1. Use the [PokeAPI](https://pokeapi.co/) to get information about a Pokemon, given it's number. You will need the name and the image of the Pokemon. For the image, you will want to download it onto your computer. You can set something up to delete the images as part of the program so they don't pile up on your computer.
  2. Then create a `tkinter` application to display your image and name. Here is a quick tutorial on [tkinter](https://realpython.com/python-gui-tkinter/). For this program, separate your program into a **Model-View-Controller** architecture. 
- ![[Pasted image 20250506111836.png|400]]
+![Pasted image 20250506111836](https://github.com/user-attachments/assets/f5de7cbf-7618-493b-884f-69c13f610080)
+
 
 ## docstrings
 
