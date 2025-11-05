@@ -1,5 +1,4 @@
-
-# Lab 3: Pokemon API
+# Pokemon API
 
 ## Objective
 
